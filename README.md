@@ -1,7 +1,7 @@
 ###                                                                   Hi, 👋 I'm Manish Rana ###
 # 💫 About Me:
 
-🔭 I'm a technology enthusiast and Passionate Full-stack Developer<br>👯 with 4+ years of hands-on experience <br>🤝 developing scalable websites/applications with Blockchain Integration <br>🌱 using a wide range of front-end and back-end technologies.<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I'm a technology enthusiast and Passionate Full-stack Developer<br>🔬 with 4+ years of hands-on experience <br>🤝 developing scalable websites/applications with Blockchain Integration <br>🔨 using a wide range of front-end and back-end technologies.<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
