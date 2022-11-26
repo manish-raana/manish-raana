@@ -17,11 +17,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manish-raana&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-raana&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-### ✍️ Random Dev Quote
+
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<img align="center" alt="coding" src="https://www.lambdatest.com/resources/images/news24.gif">
 ---
 [![](https://visitcount.itsvg.in/api?id=manish-raana&icon=0&color=9)](https://visitcount.itsvg.in)
 
