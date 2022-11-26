@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, 👋 I'm Manish Rana ###
 # 💫 About Me:
 🔭 I’m currently working on Web3.0 Applications<br>👯 I’m looking to collaborate on Decentralised Applications<br>🤝 I’m looking for help with Blockchain startups<br>🌱 I’m currently learning Blockchain Development<br>💬 Ask me about<br>⚡ Fun fact
 
