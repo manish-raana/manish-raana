@@ -22,7 +22,8 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img align="center" alt="coding" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="center" alt="coding" width="1200" src="https://www.lambdatest.com/resources/images/news24.gif">
+
 ---
 [![](https://visitcount.itsvg.in/api?id=manish-raana&icon=0&color=9)](https://visitcount.itsvg.in)
 
