@@ -18,6 +18,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-raana&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+# Check My Previous Work
+  <a href="https://altqr.com/" alt="altqr" target="_blank">https://altqr.com</a>
+
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
